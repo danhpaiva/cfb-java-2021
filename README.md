@@ -30,7 +30,7 @@ The goal is to learn to work with Java
 The following tools were used in the construction of the project:
 
 - IDE: <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
-- JDK: <a href="https://www.oracle.com/technetwork/pt/java/javase/downloads/index.html">Java 16</a>
+- JDK: <a href="https://www.oracle.com/br/java/technologies/javase-downloads.html">Java 16</a>
 
 <h2 id=autor>:grin: Author</h2>
 
