@@ -7,9 +7,3 @@
 ~~~
 https://netbeans.apache.org/download/index.html
 ~~~
-
-<p>Para rodar execute no terminal:</p>
-
-~~~
-java AloMundo
-~~~
