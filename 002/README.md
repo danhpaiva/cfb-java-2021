@@ -1,4 +1,4 @@
-<h2>Comandos de impressão e primeiras prática com variáveis - Curso de Java - Aula 02</h2>
+<h2>Comandos de impressão e primeiras práticas com variáveis - Curso de Java - Aula 02</h2>
 
 <p>Instalação do NetBeans</p>
 
